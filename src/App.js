@@ -10,7 +10,7 @@ function App() {
         <BannerImage />
         <div>
           <h1>Welcome To My Photojournal</h1>
-          <h3>Mutasem mortada</h3>
+          <h3>Mutasem Mortada</h3>
           <AlbumMaker />
         </div>
       </header>
